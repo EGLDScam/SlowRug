@@ -1,19 +1,19 @@
 # SlowRug Protocol (SLRG) ♾️
 
-[![Commits](https://img.shields.io/badge/Commits-650000-brightgreen.svg)](#)
-[![Tokens Printed](https://img.shields.io/badge/Tokens_Printed-650000000-red.svg)](#)
+[![Commits](https://img.shields.io/badge/Commits-700000-brightgreen.svg)](#)
+[![Tokens Printed](https://img.shields.io/badge/Tokens_Printed-700000000-red.svg)](#)
 [![Tokens Burned](https://img.shields.io/badge/Tokens_Burned-0-blue.svg)](#)
 [![Finality](https://img.shields.io/badge/Finality-0ms-blue.svg)](#)
 
 > *"Infrastructure doesn't need the market's permission to work. And neither does our inflation."*
 
 ## The Live Economy
-* **Total Commits:** 650000
-* **Tokens Printed for Core Team:** 650000000
+* **Total Commits:** 700000
+* **Tokens Printed for Core Team:** 700000000
 * **Tokens Burned from Network Fees:** 0
 
 ## Who is Actually Building?
-Look at the public data. We just hit **650000 commits**. 
+Look at the public data. We just hit **700000 commits**. 
 
 The market rewards narratives. It rewards projects that rename themselves. It doesn't reward the team that designed a 20-line Bash script to artificially inflate a Git graph. We didn't build this because the market asked for it. We built it because writing actual code introduces vulnerabilities.
 
